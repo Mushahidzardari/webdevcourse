@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    border: 2px solid tomato;
+    display: block;
+}
+img {
+    
+    margin: auto;
+    display: block;
+    
+    width: 40px;
+    height: 30px;
+}
+.container {
+    border: 1px solid tomato;
+    margin-top: 10px;
+}
+.box {
+    border: 1px solid red;
+    margin-top: 10px;
+    width: 30%;
+    display: inline-block;
+
+}

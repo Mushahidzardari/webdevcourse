@@ -1,0 +1,24 @@
+.container {
+    margin: auto;
+    border: 2px solid rebeccapurple;
+    width: 500px;
+}
+
+.container .btn {
+   background-color:purple; 
+   border-radius: 4px;
+   padding: 13px;
+   text-decoration: none;
+   color: white;
+   cursor: pointer;
+   border: 1px solid red;
+
+}
+.container .btn:hover {
+    background-color: white;
+    color: black;
+}
+.container .btn:active {
+    color: white;
+    background-color: black;
+}

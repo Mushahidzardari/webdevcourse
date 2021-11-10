@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+}
+.nav {
+    background-color: tomato;
+    
+}
+.nav ul {
+    overflow: auto;
+    padding: 12px 15px;
+}
+.nav ul li {
+    list-style: none;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
+    
+}
+.nav ul li a {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+
+}
+.nav ul input {
+    float: right;
+}
+.nav ul span {
+    float: right;
+    margin-right: 12px ;
+    color: white;
+}
